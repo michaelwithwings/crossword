@@ -4,7 +4,7 @@
 // version number are filled in (see vite.config.ts) and the result is saved
 // as dist/sw.js.
 
-const VERSION = "11f4f5b998c5"
+const VERSION = "2a95d66c868f"
 const FILES = ["apple-touch-icon.png","assets/index-CA_AKBKC.js","assets/index-QkO-O1bt.css","assets/puzzle.worker-Czl6rsqu.js","favicon.svg","icon-192.png","icon-512.png","icon-maskable-512.png","index.html","manifest.webmanifest"]
 const CACHE = `crossword-${VERSION}`
 
