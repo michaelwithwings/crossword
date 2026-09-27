@@ -1,6 +1,6 @@
 {
-  "name": "Crossword",
-  "short_name": "Crossword",
+  "name": "MikeWord",
+  "short_name": "MikeWord",
   "description": "A fresh 13×13 crossword every time, with easy and hard clues.",
   "id": "./",
   "start_url": "./",
