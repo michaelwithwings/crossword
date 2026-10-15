@@ -4,8 +4,8 @@
 // version number are filled in (see vite.config.ts) and the result is saved
 // as dist/sw.js.
 
-const VERSION = "32949078a6de"
-const FILES = ["apple-touch-icon.png","assets/index-B5xlPL8P.css","assets/index-BW_CeBeS.js","assets/puzzle.worker-C_ez_1Nt.js","celebrate.svg","favicon.svg","icon-192.png","icon-512.png","icon-maskable-512.png","index.html","manifest.webmanifest"]
+const VERSION = "713f4445f5c1"
+const FILES = ["apple-touch-icon.png","assets/index-D0_MHp4d.js","assets/index-iuBE3yST.css","assets/puzzle.worker-C_ez_1Nt.js","celebrate.svg","favicon.svg","icon-192.png","icon-512.png","icon-maskable-512.png","index.html","manifest.webmanifest"]
 const CACHE = `crossword-${VERSION}`
 
 // Install: download every file of this version, then take over straight away.
